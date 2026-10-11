@@ -9,6 +9,6 @@ The game has 3 levels:
 
 Sample level 1:
 
-<img width="676" height="535" alt="image" src="https://github.com/user-attachments/assets/cedb1342-8d9f-467b-a2c8-df71724d030b" />
+<img width="627" height="480" alt="image" src="https://github.com/user-attachments/assets/1f3c8c1a-4ca6-42e0-bb30-0fa21aa2aa0d" />
 
 The source code of the game is available [here](guess_a_number.py).
